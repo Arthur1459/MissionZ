@@ -24,7 +24,9 @@ To install a library type in your terminal/shell :
 
 ### How to play MissionZ :
 
-First of all, to launch the game you need to launch main.py.
+#### If you have never use github projects/python, go to "How to play.md".
+
+First of all, to launch the game you need to launch MissionZ.py.
 You can just open it with a python interpreter and run it, or directly run it from a terminal
 (type "python3.9 path_to_main.py").
 
@@ -34,9 +36,10 @@ Controls :
 - Music ON/OFF : G
 - SFX ON/OFF : H
 - Reset current level : Space
+- Pause : P
 - Cheat and pass current level : K
 
-Then you just have to avoid laval/traps, collect the four to unlock the door and reach it.
+Then you just have to avoid lava/traps, collect the four to unlock the door and reach it.
 You can do wall-jumps (4 max each jump) by jumping while you are against a wall.
 
 ## Some Screenshots
