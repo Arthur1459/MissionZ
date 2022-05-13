@@ -20,7 +20,7 @@ Libraries/modules :
 - time (already in your computer if you have python)
 
 To install a library type in your terminal/shell :
-"pip3.9 install name_of_the_module"
+"pip3 install name_of_the_module"
 
 ### How to play MissionZ :
 
